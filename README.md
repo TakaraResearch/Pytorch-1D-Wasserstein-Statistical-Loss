@@ -3,7 +3,7 @@
 &nbsp;
 
 ### Introduction:
-This repository is created to provide a **Pytorch** wasserstein statistical loss solution for a pair of 1D weight distributions.
+This repository is created to provide a **Pytorch Wasserstein Statistical Loss** solution for a pair of 1D weight distributions.
  
 &nbsp;
  
