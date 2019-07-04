@@ -26,6 +26,6 @@ Instead of (Points, Weight), full-length Weight Vectors are taken as Inputs
 &nbsp;
  
 ### If you want to know more:
-Check Scipy.Stats module for more background knowledge.
+Check Scipy.Stats module for more background knowledge.  
 Check Pytorch to know more about deep learning.
 
