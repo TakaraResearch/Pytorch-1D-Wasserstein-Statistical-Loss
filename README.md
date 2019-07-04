@@ -1,5 +1,7 @@
 ## 1D WASSERSTEIN STATISTICAL DISTANCES LOSSES IN PYTORCH
 
+&nbsp;
+
 ### Introduction:
 This repository is created to provide a **Pytorch** wasserstein statistical loss solution for a pair of 1D weight distributions.
  
