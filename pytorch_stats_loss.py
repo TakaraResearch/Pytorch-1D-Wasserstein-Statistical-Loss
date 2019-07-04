@@ -10,7 +10,7 @@ from torch.autograd import Variable
 ## Inspired by Scipy.Stats Statistial Distances for 1D
 ## Pytorch Version, supporting Autograd to make a valid Loss
 ## Supposing Inputs are Groups of Same-Length Weight Vectors
-## Instead of (Points,Weight), full-length Weight Vectors are taken as Inputs
+## Instead of (Points, Weight), full-length Weight Vectors are taken as Inputs
 ## Code Written by E.Bao, CASIA
 
 def torch_wasserstein_loss(tensor_a,tensor_b):
